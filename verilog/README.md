@@ -4,13 +4,6 @@
 sudo apt install iverilog verilator gtkwave
 ```
 
-https://circuitfever.com/verilog-simulation-using-iverilog-and-gtkwave
-
-https://www.chipverify.com/tutorials/verilog
-
-http://techmore.in/verilog/verilog-install
-
-
 # Run
 
 Compile
@@ -25,3 +18,12 @@ vvp and_gate_tb
 ```
 gtkwave and_gate.vcd
 ```
+
+
+https://steveicarus.github.io/iverilog/usage/index.html
+
+https://circuitfever.com/verilog-simulation-using-iverilog-and-gtkwave
+
+https://www.chipverify.com/tutorials/verilog
+
+http://techmore.in/verilog/verilog-install
